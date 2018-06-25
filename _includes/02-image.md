@@ -1,2 +1,1 @@
-![2 cool cat] (https://octodex.github.com/images/privateinvestocat.jpg)
-
+![2 cool cat](https://octodex.github.com/images/privateinvestocat.jpg)
