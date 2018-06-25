@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Git Hub](https://github.com/jbjonesjb)
+[F-Book](https://www.facebook.com/profile.php?id=1002297955)
